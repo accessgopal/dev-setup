@@ -1,0 +1,34 @@
+{
+	// "color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (SL).tmTheme",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 4,
+    "draw_white_space": "all",
+	"translate_tabs_to_spaces": true,
+
+
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "theme": "Material-Theme.sublime-theme",
+    "material_theme_accent_yellow"            : true , // Set yellow accent color
+    // "material_theme_accent_brba"              : true , // Set Breaking Bad green accent color
+    "material_theme_bullet_tree_indicator"    : true , // Set a bullet as active tree indicator
+    "material_theme_small_statusbar"          : true , // Set small status bar
+    "material_theme_accent_scrollbars"        : true , // Enable accent color for scrollbars
+    "material_theme_bold_tab"                 : true , // Make the tab labels bolder
+    "material_theme_compact_panel"            : true , // Set minimal padding for the search panel
+
+
+
+
+    "overlay_scroll_bars": "enabled",
+    "line_padding_top": 3,
+    "line_padding_bottom": 3,
+    "always_show_minimap_viewport": true,
+    "bold_folder_labels": true,
+    "indent_guide_options": [ "draw_normal", "draw_active" ],   // Highlight active indent
+
+
+}
