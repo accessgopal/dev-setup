@@ -1,34 +1,37 @@
 {
-	// "color_scheme": "Packages/User/Color Highlighter/themes/Solarized (Dark) (SL).tmTheme",
-	"font_size": 15,
+	"always_show_minimap_viewport": true,
+	"auto_complete": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"draw_white_space": "all",
+	"font_face": "Consolas",
+	"font_size": 16,
 	"ignored_packages":
 	[
-		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 6,
+	"line_padding_top": 6,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_accent_yellow": true,
+	"material_theme_bold_tab": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_panel": true,
+	"material_theme_small_statusbar": true,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		60,
+		80,
+		100
 	],
 	"tab_size": 4,
-    "draw_white_space": "all",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-
-
-    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-    "theme": "Material-Theme.sublime-theme",
-    "material_theme_accent_yellow"            : true , // Set yellow accent color
-    // "material_theme_accent_brba"              : true , // Set Breaking Bad green accent color
-    "material_theme_bullet_tree_indicator"    : true , // Set a bullet as active tree indicator
-    "material_theme_small_statusbar"          : true , // Set small status bar
-    "material_theme_accent_scrollbars"        : true , // Enable accent color for scrollbars
-    "material_theme_bold_tab"                 : true , // Make the tab labels bolder
-    "material_theme_compact_panel"            : true , // Set minimal padding for the search panel
-
-
-
-
-    "overlay_scroll_bars": "enabled",
-    "line_padding_top": 3,
-    "line_padding_bottom": 3,
-    "always_show_minimap_viewport": true,
-    "bold_folder_labels": true,
-    "indent_guide_options": [ "draw_normal", "draw_active" ],   // Highlight active indent
-
-
+	"word_wrap": true
 }
